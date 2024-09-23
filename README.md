@@ -22,8 +22,8 @@ Kullanıcılar, "Book Flight" butonuyla uçuşu kaydedebilir ve kendi uçuşlar�
 1. **Projeyi İndirin**  
    Depoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adiniz/Flight-Reservation.git
-   cd Flight-Reservation
+   git clone https://github.com/kullanici-adiniz/muharremonel-Flight-Reservation.git
+   cd muharremonel-Flight-Reservation
    ```
 
 2. **Client ve Server Kurulumu**  
